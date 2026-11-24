@@ -79,7 +79,7 @@ Para prevenir un riesgo de forma eficaz, primero hay que identificar de dónde p
 
 Una buena prevención combina herramientas tecnológicas con buenos hábitos por parte de los usuarios:
 
-![Portada](/imagenesGH/2fa.jpeg)
+![Portada](/imagenesGH/2fa.png)
 
 ### **Barreras técnicas y de software**
 
