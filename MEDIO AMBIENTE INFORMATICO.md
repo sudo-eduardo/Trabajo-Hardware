@@ -1,40 +1,6 @@
 **MEDIO AMBIENTE INFORMATICO**
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
+![Portada](/imagenesGH/mundo.jpeg)
 
 ## **ÍNDICE**
 
