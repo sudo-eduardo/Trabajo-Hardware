@@ -1,5 +1,7 @@
 **SEGURIDAD EN EL TRABAJO**
 
+![Portada](/imagenesGH/peligroooo.jpg)
+
 **ÍNDICE**
 
 1.Riesgos laborales
@@ -22,6 +24,8 @@ Los riesgos laborales pueden ser de diferentes tipos. Algunos de los más import
 * Riesgos ergonómicos: están relacionados con las malas posturas, los movimientos repetitivos y el levantamiento de objetos pesados.  
 * Riesgos psicosociales: incluyen el estrés, la ansiedad, la sobrecarga de trabajo y los conflictos laborales.
 
+![Portada](/imagenesGH/tioconcasco.png)
+
 La prevención de riesgos laborales:
 
 La prevención de riesgos laborales consiste en identificar los peligros que existen en un puesto de trabajo y tomar medidas para evitar que provoquen daños. Las empresas tienen la obligación de evaluar los riesgos y proteger a sus trabajadores mediante medidas de seguridad y formación.
@@ -37,6 +41,8 @@ También puede aparecer estrés por la acumulación de tareas o por trabajar dur
 **2-Prevención de riesgos desde un punto de vista informático**
 
 La prevención de riesgos informáticos es el conjunto de estrategias, herramientas, normativas y hábitos diseñados para identificar, evaluar y minimizar las vulnerabilidades que pueden afectar a los equipos, redes, programas y datos de un usuario o de una organización.
+
+![Portada](/imagenesGH/mumalomumalo.jpg)
 
 El objetivo de prevenir estos riesgos es proteger tres pilares fundamentales de cualquier sistema informático, conocidos como la Tríada CIA:
 
@@ -55,6 +61,8 @@ Para prevenir un riesgo de forma eficaz, primero hay que identificar de dónde p
 * **Ataques de denegación de servicio (DDoS):** Saturación de un servidor o página web mediante millones de peticiones simultáneas hasta dejarlo fuera de servicio.  
 * **Intercepción de comunicaciones:** Espionaje o robo de datos cuando se navega por redes Wi-Fi públicas o sin cifrar.
 
+![Portada](/imagenesGH/ladronnnnn.jpg)
+
 ### **El factor humano (Ingeniería social y errores)**
 
 * **Ingeniería social y *phishing*:** Engaños mediante correos, mensajes o llamadas falsas que suplantan a bancos o empresas para robar contraseñas y datos bancarios.  
@@ -70,6 +78,8 @@ Para prevenir un riesgo de forma eficaz, primero hay que identificar de dónde p
 ## Medidas Preventivas: Técnicas y Organizativas
 
 Una buena prevención combina herramientas tecnológicas con buenos hábitos por parte de los usuarios:
+
+![Portada](/imagenesGH/2fa.jpeg)
 
 ### **Barreras técnicas y de software**
 
